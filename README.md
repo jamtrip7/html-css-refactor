@@ -1,6 +1,6 @@
 # Refractor
 
-![project image](https://github.com/jamtrip7/html-css-refactor/blob/main/assets/screenshot/screenshot.png)
+![Project Image](https://github.com/jamtrip7/html-css-refactor/blob/main/assets/screenshot/screenshot.png)
 
 > My First Website Build.
 
