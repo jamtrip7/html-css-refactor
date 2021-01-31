@@ -1,6 +1,6 @@
 # Refractor
 
-![project image](C:\Users\J.Rippee\code\homework-assignments\html-css-refactor\assets\screenshot)
+![project image](https://github.com/jamtrip7/html-css-refactor/blob/main/assets/screenshot/screenshot.png)
 
 > My First Website Build.
 
